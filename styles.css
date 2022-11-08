@@ -1,2 +1,28 @@
+aside {
+    width: 50%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  }
 
+  summary{
+    width: fit-content;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  header{
+    margin-bottom: 50px;
+  }
+
+  footer{
+    margin-top: 50px;
+  }
+
+  #actor{
+    margin-bottom: 50px;
+  }
 /* Your CSS Code here. */
